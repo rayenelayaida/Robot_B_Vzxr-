@@ -43,6 +43,6 @@ On considère un univers de taille __6 * 4__. On transmet à __B-VZXR__ la liste
 
 Dans ce cas là, le robot, qui commence dans la case __(0,0)__, la tête vers le haut, va lire la première instruction  __"right", 3__  et va donc se tourner vers la droite et avancer de trois cases. Il sera alors dans la case __(3, 0)__. Après avoir exécuté la seconde instruction  __"left", 2__ , il sera sur la case __(3, 2)…__ La suite de son voyage est lisible sur l'image ci-dessous.
 
-![](media/Exemple.png)
+![cat](https://github.com/rayenelayaida/Robot_B_Vzxr-/blob/master/Exemple.PNG)
 
 On notera que __B-VZXR__ lit l'instruction  __"right", 10__ , il rencontre un mur et va donc rester sur la case en face du mur. Il lira ensuite la prochaine instruction. À la fin de son périple, il va se retrouver sur la case __(0, 3)__.
